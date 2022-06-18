@@ -1,0 +1,44 @@
+.kitchen_screen {
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.kitchen_top {
+    background-color: #ffe1a0;
+    padding: 12px 0;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.kitchen_content {
+}
+
+.kitchen_list {
+    display: flex;
+    padding: 24px 24px;
+    border-bottom: 1px solid lightgray;
+    justify-content: space-around;
+}
+
+.kitchen_item {
+    display: flex;
+    width: 240px;
+}
+
+.kitchen_list_no {
+    margin: 0 12px;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+.kitchen_list_title {
+    font-size: 1.2em;
+}
+
+.kitchen_list_btn button {
+    border: 0;
+    padding: 6px 24px;
+    background-color: #ffe1a0;
+    border-radius: 12px;
+}
